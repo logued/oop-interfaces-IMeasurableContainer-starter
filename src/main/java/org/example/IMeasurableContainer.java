@@ -5,8 +5,7 @@ package org.example;
  * rectangularVolume : the dimensions of the smallest box this item will fit into
  */
 public interface IMeasurableContainer {
-    double weight();
-    double rectangularVolume();
 
-    //default double aNewMethod( ) { return 0.0; };
+
+
 }
